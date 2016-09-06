@@ -5,3 +5,8 @@
 *.suo
 /DDD_Sample/src/Domain/obj/Debug
 /DDD_Sample/src/Infra.Data/obj/Debug
+/DDD_Sample/packages
+/DDD_Sample/src/CrossCutting.Ioc/bin/Debug
+/DDD_Sample/src/CrossCutting.Ioc/obj/Debug
+/DDD_Sample/src/Domain/bin/Debug
+/DDD_Sample/src/Infra.Data/bin/Debug

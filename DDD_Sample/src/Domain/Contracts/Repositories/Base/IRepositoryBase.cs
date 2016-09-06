@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Domain.Entities.Base;
+﻿using Domain.Entities.Base;
 
 namespace Domain.Contracts.Repositories.Base
 {

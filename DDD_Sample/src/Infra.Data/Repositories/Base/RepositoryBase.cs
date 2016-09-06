@@ -27,6 +27,6 @@ namespace Infra.Data.Repositories.Base
         public void Delete(T entity)
         {
             Context.Set<T>().Remove(entity);
-        }
+        }    
     }
 }
