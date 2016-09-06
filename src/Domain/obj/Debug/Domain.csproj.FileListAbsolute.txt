@@ -1,7 +1,0 @@
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\bin\Debug\Domain.dll
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\bin\Debug\Domain.pdb
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\obj\Debug\Domain.dll
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\obj\Debug\Domain.pdb
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\bin\Debug\SharedKernel.dll
-C:\Projects\DDD_Sample\DDD_Sample\src\Domain\bin\Debug\SharedKernel.pdb

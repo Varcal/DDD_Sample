@@ -1,4 +1,0 @@
-C:\Projects\DDD_Sample\DDD_\src\SharedKernel\bin\Debug\SharedKernel.dll
-C:\Projects\DDD_Sample\DDD_\src\SharedKernel\bin\Debug\SharedKernel.pdb
-C:\Projects\DDD_Sample\DDD_\src\SharedKernel\obj\Debug\SharedKernel.dll
-C:\Projects\DDD_Sample\DDD_\src\SharedKernel\obj\Debug\SharedKernel.pdb
