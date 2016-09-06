@@ -4,3 +4,11 @@
 
 /.vs/DDD_Sample/v14
 /src/Application/obj/Debug
+/packages
+/src/CrossCutting.Ioc/obj/Debug
+/src/Domain/bin/Debug
+/src/Domain/obj/Debug
+/src/Infra.Data/obj/Debug
+/src/Infra.Data/bin/Debug
+/src/SharedKernel/obj/Debug
+/src/SharedKernel/bin/Debug
