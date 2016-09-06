@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2.1 - IoC", "4.2.1 - IoC"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting.Ioc", "src\CrossCutting.Ioc\CrossCutting.Ioc.csproj", "{74C66BBE-7BC0-443D-8B81-BB17184922EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel", "..\DDD_\src\SharedKernel\SharedKernel.csproj", "{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{74C66BBE-7BC0-443D-8B81-BB17184922EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C66BBE-7BC0-443D-8B81-BB17184922EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74C66BBE-7BC0-443D-8B81-BB17184922EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,5 +58,6 @@ Global
 		{B3CC610C-BF98-41F5-A118-6A8B934B96C1} = {4E8403B1-7050-4BCB-A52F-A2F07A0279D0}
 		{3F103D37-6B3B-4B26-AB57-CE37D093AF24} = {F9DD4DEB-1786-4256-822B-D9F86DBB9D72}
 		{74C66BBE-7BC0-443D-8B81-BB17184922EB} = {3F103D37-6B3B-4B26-AB57-CE37D093AF24}
+		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC} = {FFA16724-6BDE-434A-A450-9952D6591B71}
 	EndGlobalSection
 EndGlobal

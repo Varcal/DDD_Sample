@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Configurations\Bootstraper.cs" />
     <Compile Include="Configurations\SimpleInjectorInitializer.cs" />
+    <Compile Include="Containers\IoCContainer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -69,6 +70,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\DDD_\src\SharedKernel\SharedKernel.csproj">
+      <Project>{0b380afa-f2c4-4701-9002-2d803db3cefc}</Project>
+      <Name>SharedKernel</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{a36d49e5-1b15-40ac-afe6-687871fb4ddf}</Project>
       <Name>Domain</Name>

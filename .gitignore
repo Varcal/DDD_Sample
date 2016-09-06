@@ -10,3 +10,5 @@
 /DDD_Sample/src/CrossCutting.Ioc/obj/Debug
 /DDD_Sample/src/Domain/bin/Debug
 /DDD_Sample/src/Infra.Data/bin/Debug
+/DDD_/src/SharedKernel/obj/Debug
+/DDD_/src/SharedKernel/bin/Debug
