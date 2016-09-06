@@ -1,0 +1,12 @@
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\Infra.Data.dll.config
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\Infra.Data.dll
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\Infra.Data.pdb
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\Domain.dll
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\EntityFramework.dll
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\Domain.pdb
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\EntityFramework.xml
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\obj\Debug\Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\obj\Debug\Infra.Data.dll
+C:\Projects\DDD_Sample\DDD_Sample\src\Infra.Data\obj\Debug\Infra.Data.pdb

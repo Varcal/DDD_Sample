@@ -2,15 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-*.suo
-/DDD_Sample/src/Domain/obj/Debug
-/DDD_Sample/src/Infra.Data/obj/Debug
-/DDD_Sample/packages
-/DDD_Sample/src/CrossCutting.Ioc/bin/Debug
-/DDD_Sample/src/CrossCutting.Ioc/obj/Debug
-/DDD_Sample/src/Domain/bin/Debug
-/DDD_Sample/src/Infra.Data/bin/Debug
-/DDD_/src/SharedKernel/obj/Debug
-/DDD_/src/SharedKernel/bin/Debug
-/DDD_Sample/src/Application/bin/Debug
-/DDD_Sample/src/Application/obj/Debug
+/.vs/DDD_Sample/v14
+/src/Application/obj/Debug
