@@ -4,3 +4,4 @@
 
 *.suo
 /DDD_Sample/src/Domain/obj/Debug
+/DDD_Sample/src/Infra.Data/obj/Debug

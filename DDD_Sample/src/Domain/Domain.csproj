@@ -35,11 +35,11 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contracts\Repositories\Base\IRepositoryBase.cs" />
     <Compile Include="Entities\Base\EntityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Contracts\Repositories\" />
     <Folder Include="Contracts\Services\" />
     <Folder Include="Services\" />
   </ItemGroup>
