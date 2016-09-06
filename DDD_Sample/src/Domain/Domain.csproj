@@ -45,6 +45,12 @@
     <Folder Include="Services\" />
     <Folder Include="Specs\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DDD_\src\SharedKernel\SharedKernel.csproj">
+      <Project>{0b380afa-f2c4-4701-9002-2d803db3cefc}</Project>
+      <Name>SharedKernel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

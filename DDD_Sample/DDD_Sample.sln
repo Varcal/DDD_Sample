@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossCutting.Ioc", "src\Cro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedKernel", "..\DDD_\src\SharedKernel\SharedKernel.csproj", "{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\Application\Application.csproj", "{E0EBDC22-4161-49F6-8061-893BD1C3702B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EBDC22-4161-49F6-8061-893BD1C3702B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EBDC22-4161-49F6-8061-893BD1C3702B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EBDC22-4161-49F6-8061-893BD1C3702B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EBDC22-4161-49F6-8061-893BD1C3702B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,5 +65,6 @@ Global
 		{3F103D37-6B3B-4B26-AB57-CE37D093AF24} = {F9DD4DEB-1786-4256-822B-D9F86DBB9D72}
 		{74C66BBE-7BC0-443D-8B81-BB17184922EB} = {3F103D37-6B3B-4B26-AB57-CE37D093AF24}
 		{0B380AFA-F2C4-4701-9002-2D803DB3CEFC} = {FFA16724-6BDE-434A-A450-9952D6591B71}
+		{E0EBDC22-4161-49F6-8061-893BD1C3702B} = {89C89D6E-118C-473B-A8A4-C5075D2FB92E}
 	EndGlobalSection
 EndGlobal
